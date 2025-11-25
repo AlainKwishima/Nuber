@@ -1,6 +1,6 @@
 # ☁️ Nube - Modern File Management System
 
-![Nube Banner](public\assets\images\image.png)
+![Nube Banner](public/assets/images/image.png)
 
 <div align="center">
 
