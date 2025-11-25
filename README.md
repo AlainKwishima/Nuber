@@ -77,12 +77,6 @@ Follow these steps to set up Nube locally on your machine.
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application running.
 
-## 📸 Screenshots
-
-| Dashboard | File View |
-|:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/600x400.png?text=Dashboard+Preview) | ![File View](https://via.placeholder.com/600x400.png?text=File+View+Preview) |
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
